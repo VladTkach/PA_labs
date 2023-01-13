@@ -50,7 +50,6 @@
         <Compile Include="Copy.cs" />
         <Compile Include="DeltaFinder.cs" />
         <Compile Include="Direction.cs" />
-        <Compile Include="Display.cs" />
         <Compile Include="EnemyColoring.cs" />
         <Compile Include="Form1.cs">
             <SubType>Form</SubType>
